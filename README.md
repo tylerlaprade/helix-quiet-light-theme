@@ -8,7 +8,7 @@ theme to the [Helix editor](https://helix-editor.com).
 Drop `quiet_light.toml` into your Helix themes directory:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/tylerlaprade/helix-quiet-light/main/quiet_light.toml \
+curl -fsSL https://raw.githubusercontent.com/tylerlaprade/helix-quiet-light-theme/main/quiet_light.toml \
   -o ~/.config/helix/themes/quiet_light.toml
 ```
 
